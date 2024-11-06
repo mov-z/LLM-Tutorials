@@ -44,6 +44,8 @@
     - LLM 플랫폼을 구축하는 과정에 대한 포괄적인 설명을 제공하는 포스트예요.
     - 이 포스트는 기업들이 생성적 AI 애플리케이션을 어떻게 배포하는지에 대한 공통된 아키텍처와 그 구성 요소들을 다루고 있어요.
     - 기본적인 구조에서 출발하여, 필요에 따라 'Enhance Context', 'Put in Guardrails', 'Add Model Router and Gateway', 'Reduce Latency with Cache'와 같은 컴포넌트들을 추가하는 방법을 설명해줘요.
+- [Unsloth AI Fine-tuning](https://huggingface.co/unsloth)
+    - Colab 환경에서 Fine-tuning 예제를 제공하는 Unsloth AI
 <br>
 
 
