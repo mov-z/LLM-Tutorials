@@ -13,6 +13,7 @@
     - **OpenAI**와 **Llama-index**를 이용한, 조금 더 다양한 기능의 **RAG** 기능을 구현해보는 예제
     - **ChromaDB**, **OpenAI Embedding 모델** 사용
     - 고급 검색 및 후처리 적용 (**`similarity_top_k`**, **`similarity_cutoff`** 사용)
+<br>
 
 
 ## 📌 오픈소스 LLM
@@ -31,6 +32,7 @@
   - llama-index와 **huggingface** LLM을 이용하여 **기본적인 RAG** 기능을 구현하는 예제
 - [llama-index_ollama_RAG_basic](Open-source_LLM/rag/llama-index_ollama_RAG_basic.ipynb)
   - llama-index와 **ollama** LLM을 이용하여 **기본적인 RAG** 기능을 구현하는 예제
+<br>
 
  
 ## 📌 공부 자료
@@ -38,6 +40,11 @@
     - Teddy Lee님이 운영하는 레포지토리로 다양한 랭체인 한국어 튜토리얼을 제공해요 (1.2k stars) 
 - [Large Language Model Course](https://github.com/mlabonne/llm-course)
     - 다양한 LLM 공부 자료와 LLM Scientist, LLM Engineer 로드맵을 제공해요 (38.8k stars)
+- [Building A Generative AI Platform](https://huyenchip.com/2024/07/25/genai-platform.html)
+    - LLM 플랫폼을 구축하는 과정에 대한 포괄적인 설명을 제공하는 포스트예요.
+    - 이 포스트는 기업들이 생성적 AI 애플리케이션을 어떻게 배포하는지에 대한 공통된 아키텍처와 그 구성 요소들을 다루고 있어요.
+    - 기본적인 구조에서 출발하여, 필요에 따라 'Enhance Context', 'Put in Guardrails', 'Add Model Router and Gateway', 'Reduce Latency with Cache'와 같은 컴포넌트들을 추가하는 방법을 설명해줘요.
+<br>
 
 
 ## 🙋🏻‍♂️ 추가 설명 
