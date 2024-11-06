@@ -32,6 +32,13 @@
 - [llama-index_ollama_RAG_basic](Open-source_LLM/rag/llama-index_ollama_RAG_basic.ipynb)
   - llama-index와 **ollama** LLM을 이용하여 **기본적인 RAG** 기능을 구현하는 예제
 
+ 
+## 📌 공부 자료
+- [LangChain 한국어 튜토리얼](https://github.com/teddylee777/langchain-kr)
+    - Teddy Lee님이 운영하는 레포지토리로 다양한 랭체인 한국어 튜토리얼을 제공해요 (1.2k stars) 
+- [Large Language Model Course](https://github.com/mlabonne/llm-course)
+    - 다양한 LLM 공부 자료와 LLM Scientist, LLM Engineer 로드맵을 제공해요 (38.8k stars)
+
 
 ## 🙋🏻‍♂️ 추가 설명 
 - 예제는 구글 코랩 환경과 로컬 주피터 노트북 환경으로 구성되어 있어요. 
